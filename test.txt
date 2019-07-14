@@ -1,2 +1,4 @@
-ÄãºÃ
+hi
 hello
+banana
+apple
